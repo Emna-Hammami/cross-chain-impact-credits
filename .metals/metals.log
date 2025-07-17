@@ -1,0 +1,67 @@
+2025.07.17 13:34:34 INFO  no build target found for C:\cross-chain-impact-credits\cardano\scalus-starter\src\main\scala\starter\MintingPolicyV1.scala. Using presentation compiler with project's scala-library version: 3.3.6
+juil. 17, 2025 1:34:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.07.17 13:34:37 INFO  no build target found for C:\cross-chain-impact-credits\cardano\scalus-starter\src\main\scala\starter\MintingPolicyV1.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.17 13:34:37 INFO  no build target found for C:\cross-chain-impact-credits\cardano\scalus-starter\src\main\scala\starter\MintingPolicy.scala. Using presentation compiler with project's scala-library version: 3.3.6
+juil. 17, 2025 1:34:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2025.07.17 13:34:37 INFO  no build target found for C:\cross-chain-impact-credits\cardano\scalus-starter\src\main\scala\starter\MintingPolicy.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.17 13:34:37 INFO  no build target found for C:\cross-chain-impact-credits\cardano\scalus-starter\src\main\scala\starter\MintingPolicyV1.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.17 13:34:38 INFO  no build target found for C:\cross-chain-impact-credits\cardano\scalus-starter\src\main\scala\starter\MintingPolicy.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.17 13:34:38 INFO  no build target found for C:\cross-chain-impact-credits\cardano\scalus-starter\src\main\scala\starter\MintingPolicyV1.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.17 13:34:38 INFO  no build target found for C:\cross-chain-impact-credits\cardano\scalus-starter\src\main\scala\starter\MintingPolicyV1.scala. Using presentation compiler with project's scala-library version: 3.3.6
+juil. 17, 2025 1:34:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2025.07.17 13:34:37 INFO  no build target found for C:\cross-chain-impact-credits\cardano\scalus-starter\src\main\scala\starter\MintingPolicyV1.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.17 13:34:37 INFO  no build target found for C:\cross-chain-impact-credits\cardano\scalus-starter\src\main\scala\starter\MintingPolicyV1NFT.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.17 13:34:38 INFO  no build target found for C:\cross-chain-impact-credits\cardano\scalus-starter\src\main\scala\starter\MintingPolicyV1NFT.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.17 13:34:41 INFO  Running List(C:\Users\Mahdi\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\cross-chain-impact-credits)
+2025.07.17 13:34:41 INFO  Attempting to connect to the build server...
+2025.07.17 13:34:41 INFO  Running BSP server List(C:\Users\Mahdi\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\cross-chain-impact-credits\.scala-build\ide-options-v2.json, --json-launcher-options, C:\cross-chain-impact-credits\.scala-build\ide-launcher-options.json, --envs-file, C:\cross-chain-impact-credits\.scala-build\ide-envs.json, C:\cross-chain-impact-credits)
+2025.07.17 13:34:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\cross-chain-impact-credits\.metals\bsp.trace.json or C:\Users\Mahdi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.07.17 13:34:44 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.7.1/scala3-sbt-bridge-3.7.1.pom
+2025.07.17 13:34:44 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.7.1/scala3-sbt-bridge-3.7.1.pom
+2025.07.17 13:34:44 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.7.1/scala3-sbt-bridge-3.7.1.jar
+2025.07.17 13:34:44 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.7.1/scala3-sbt-bridge-3.7.1.jar
+2025.07.17 13:34:44 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.7.1/scala3-library_3-3.7.1-sources.jar
+2025.07.17 13:34:45 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.7.1/scala3-library_3-3.7.1-sources.jar
+2025.07.17 13:34:46 INFO  time: Connected to build server in 4.53s
+2025.07.17 13:34:46 INFO  Connected to Build server: scala-cli v1.8.4
+2025.07.17 13:34:46 INFO  compiling cross-chain-impact-credits_d5c0a6989e (5 scala sources)
+2025.07.17 13:34:53 INFO  time: compiled cross-chain-impact-credits_d5c0a6989e in 7.33s
+2025.07.17 13:34:53 INFO  compiling cross-chain-impact-credits_d5c0a6989e (5 scala sources)
+2025.07.17 13:34:59 INFO  time: indexed workspace in 12s
+2025.07.17 13:35:00 INFO  time: compiled cross-chain-impact-credits_d5c0a6989e in 6.29s
+2025.07.17 13:35:01 INFO  compiling cross-chain-impact-credits_d5c0a6989e (5 scala sources)
+2025.07.17 13:35:04 WARN  Invalid text document uri received from build server: file:///C:/cross-chain-impact-credits/cardano/scalus-starter/src/main/scala/starter/MintingPolicy.scala
+2025.07.17 13:35:04 INFO  BSP server: Alphanumeric method $ is not declared infix; it should not be used as infix operator.
+Instead, use method syntax .$(...) or backticked identifier `$`.
+The latter can be rewritten automatically under -rewrite -source 3.4-migration.
+2025.07.17 13:35:04 WARN  Invalid text document uri received from build server: file:///C:/cross-chain-impact-credits/cardano/scalus-starter/src/main/scala/starter/MintingPolicyV1.scala
+2025.07.17 13:35:04 INFO  BSP server: Alphanumeric method $ is not declared infix; it should not be used as infix operator.
+Instead, use method syntax .$(...) or backticked identifier `$`.
+The latter can be rewritten automatically under -rewrite -source 3.4-migration.
+2025.07.17 13:35:04 WARN  Invalid text document uri received from build server: file:///C:/cross-chain-impact-credits/cardano/scalus-starter/src/main/scala/starter/MintingPolicy.scala
+2025.07.17 13:35:04 WARN  Invalid text document uri received from build server: file:///C:/cross-chain-impact-credits/cardano/scalus-starter/src/main/scala/starter/MintingPolicyV1.scala
+2025.07.17 13:35:04 INFO  time: compiled cross-chain-impact-credits_d5c0a6989e in 2.69s
+2025.07.17 13:35:05 INFO  compiling cross-chain-impact-credits_d5c0a6989e (3 scala sources)
+2025.07.17 13:35:08 WARN  Invalid text document uri received from build server: file:///C:/cross-chain-impact-credits/cardano/scalus-starter/src/main/scala/starter/MintingPolicy.scala
+2025.07.17 13:35:08 WARN  Invalid text document uri received from build server: file:///C:/cross-chain-impact-credits/cardano/scalus-starter/src/main/scala/starter/MintingPolicyV1.scala
+2025.07.17 13:35:08 INFO  time: compiled cross-chain-impact-credits_d5c0a6989e in 2.37s
+2025.07.17 13:35:08 INFO  compiling cross-chain-impact-credits_d5c0a6989e (3 scala sources)
+2025.07.17 13:35:08 INFO  Deduplicating compilation of cross-chain-impact-credits_d5c0a6989e from bsp client 'scala-cli 1.8.4' (since 25.807s)
+2025.07.17 13:35:08 INFO  compiling cross-chain-impact-credits_d5c0a6989e (3 scala sources)
+2025.07.17 13:35:09 INFO  time: compiled cross-chain-impact-credits_d5c0a6989e in 1.13s
+2025.07.17 13:35:09 INFO  time: indexed workspace in 4.39s
+2025.07.17 13:35:10 INFO  compiling cross-chain-impact-credits_d5c0a6989e (3 scala sources)
+2025.07.17 13:35:10 INFO  time: compiled cross-chain-impact-credits_d5c0a6989e in 0.75s
+2025.07.17 13:35:14 INFO  compiling cross-chain-impact-credits_d5c0a6989e (3 scala sources)
+2025.07.17 13:35:14 INFO  time: compiled cross-chain-impact-credits_d5c0a6989e in 0.62s
+2025.07.17 13:35:14 INFO  compiling cross-chain-impact-credits_d5c0a6989e (3 scala sources)
+2025.07.17 13:35:15 INFO  time: compiled cross-chain-impact-credits_d5c0a6989e in 0.66s
+2025.07.17 13:35:15 INFO  time: indexed workspace in 1.69s
+2025.07.17 13:35:15 WARN  no build target for: C:\cross-chain-impact-credits\cardano\scalus-starter\src\test\scala\starter\MintingPolicySpec.scala
+2025.07.17 13:35:15 INFO  compiling cross-chain-impact-credits_d5c0a6989e (3 scala sources)
+2025.07.17 13:35:16 INFO  time: compiled cross-chain-impact-credits_d5c0a6989e in 0.61s
+2025.07.17 13:35:16 INFO  compiling cross-chain-impact-credits_d5c0a6989e (3 scala sources)
+2025.07.17 13:35:16 INFO  time: compiled cross-chain-impact-credits_d5c0a6989e in 0.72s
