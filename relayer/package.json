@@ -1,0 +1,25 @@
+{
+  "name": "relayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "relayer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@chainsafe/libp2p-noise": "^16.0.3",
+    "@chainsafe/libp2p-yamux": "^7.0.1",
+    "@libp2p/crypto": "^5.0.15",
+    "@libp2p/peer-id": "^5.1.0",
+    "@libp2p/tcp": "^10.1.8",
+    "@multiformats/multiaddr": "^12.4.0",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.7",
+    "it-pipe": "^3.0.1",
+    "libp2p": "^2.8.2"
+  }
+}

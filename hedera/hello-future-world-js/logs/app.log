@@ -1,0 +1,9 @@
+{"level":"info","message":"Valid contribution: {\"type\":\"commit\",\"userId\":\"0.0.123456\",\"commitId\":\"abc123\"}","timestamp":"2025-07-16T21:48:38.383Z"}
+{"error":{},"level":"error","message":"Validation error for {\"type\":\"commit\",\"userId\":\"0.0.123456\",\"commitId\":\"abc123\"}: Impact Credit token ID not set. Run createImpactCreditToken first.","timestamp":"2025-07-16T21:48:38.390Z"}
+{"error":{},"level":"error","message":"Batch processing error: Impact Credit token ID not set. Run createImpactCreditToken first.","timestamp":"2025-07-16T21:48:38.392Z"}
+{"error":{},"level":"error","message":"Error creating Impact Credit token: config is not defined","timestamp":"2025-07-16T21:49:11.343Z"}
+{"level":"info","message":"Created token: 0.0.6363526","timestamp":"2025-07-16T21:50:02.316Z"}
+{"level":"info","message":"Valid contribution: {\"type\":\"commit\",\"userId\":\"0.0.123456\",\"commitId\":\"abc123\"}","timestamp":"2025-07-16T21:50:38.621Z"}
+{"error":{},"level":"error","message":"Validation error for {\"type\":\"commit\",\"userId\":\"0.0.123456\",\"commitId\":\"abc123\"}: Impact Credit token ID not set. Run createImpactCreditToken first.","timestamp":"2025-07-16T21:50:38.623Z"}
+{"error":{},"level":"error","message":"Batch processing error: Impact Credit token ID not set. Run createImpactCreditToken first.","timestamp":"2025-07-16T21:50:38.624Z"}
+{"level":"info","message":"Created token: 0.0.6363536","timestamp":"2025-07-16T21:53:47.423Z"}
